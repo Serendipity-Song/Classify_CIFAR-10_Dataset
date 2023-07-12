@@ -53,8 +53,10 @@ The model achieved an accuracy of 71% on the test set. The following table shows
 | Ship | 0.89 | 0.74 | 0.81 |
 | Truck | 0.70 | 0.86 | 0.78 |
 
+## Visualization
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/88193038/236439485-52b94813-576d-4ead-8a6c-bb65fa700d3c.png">
+ 
+
 ## Conclusion 
  
 The results of this project show that it is possible to achieve a high accuracy on the CIFAR-10 dataset using a CNN. The model could be further improved by using a larger dataset, a more complex model, or a different optimizer.
- 
-<img width="507" alt="image" src="https://user-images.githubusercontent.com/88193038/236439485-52b94813-576d-4ead-8a6c-bb65fa700d3c.png">
